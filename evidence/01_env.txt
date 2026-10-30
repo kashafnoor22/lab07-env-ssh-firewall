@@ -1,0 +1,3 @@
+USER=kashafnoor22
+HOME=/home/kashafnoor22
+USER=kashafnoor22
